@@ -111,6 +111,4 @@ tree.add("Eng 2", "Lead Engineer")
 tree.add("VP of Finance", "CFO")
 tree.add("Accountant", "VP of Finance")
 
-print_data = lambda x: print(x.data)
 tree.print()
-# tree.traverseBF(print_data)
